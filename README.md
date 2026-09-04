@@ -69,7 +69,7 @@ Le frontend Angular est disponible ici :
 ## Screenshots
 
 ### Home
-![Home](yummy/screenshots/home.png)
+![Home](yummy/screenshots/home.png?v=2)
 
 ### Login
 ![Login](yummy/screenshots/login.png)
