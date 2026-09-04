@@ -67,3 +67,24 @@ Le frontend Angular est disponible ici :
 [Yummy-restaurant---Frontend](https://github.com/Zaineb-Hl/Yummy-restaurant---Frontend)
 
 ## Screenshots
+
+### Home
+![Home](screenshots/home.png)
+
+### Login
+![Login](screenshots/login.png)
+
+### Menu
+![Menu](screenshots/menu.png)
+
+### Chefs
+![Chefs](screenshots/chefs.png)
+
+### Add Chef
+![Add Chef](screenshots/add-chef.png)
+
+### Chefs Table
+![Chefs Table](screenshots/chefs-table.png)
+
+### Meals Table
+![Meals Table](screenshots/meals-table.png)
