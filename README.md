@@ -87,4 +87,5 @@ Le frontend Angular est disponible ici :
 ![Chefs Table](yummy/screenshots/chefs-table.png)
 
 ### Meals Table
-![Meals Table](screenshots/meals-table.png)
+![Meals Table](yummy/screenshots/meals-table.png)
+
