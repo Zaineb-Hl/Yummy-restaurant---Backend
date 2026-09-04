@@ -66,26 +66,3 @@ L'API sera disponible sur : **http://localhost:9000**
 Le frontend Angular est disponible ici :
 [Yummy-restaurant---Frontend](https://github.com/Zaineb-Hl/Yummy-restaurant---Frontend)
 
-## Screenshots
-
-### Home
-![Home](yummy/screenshots/home.png)
-
-### Login
-![Login](yummy/screenshots/login.png)
-
-### Menu
-![Menu](yummy/screenshots/menu.png)
-
-### Chefs
-![Chefs](yummy/screenshots/chefs.png)
-
-### Add Chef
-![Add Chef](yummy/screenshots/add-chef.png)
-
-### Chefs Table
-![Chefs Table](yummy/screenshots/chefs-table.png)
-
-### Meals Table
-![Meals Table](yummy/screenshots/meals-table.png)
-
