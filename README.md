@@ -72,19 +72,19 @@ Le frontend Angular est disponible ici :
 ![Home](yummy/screenshots/home.png)
 
 ### Login
-![Login](screenshots/login.png)
+![Login](yummy/screenshots/login.png)
 
 ### Menu
-![Menu](screenshots/menu.png)
+![Menu](yummy/screenshots/menu.png)
 
 ### Chefs
-![Chefs](screenshots/chefs.png)
+![Chefs](yummy/screenshots/chefs.png)
 
 ### Add Chef
-![Add Chef](screenshots/add-chef.png)
+![Add Chef](yummy/screenshots/add-chef.png)
 
 ### Chefs Table
-![Chefs Table](screenshots/chefs-table.png)
+![Chefs Table](yummy/screenshots/chefs-table.png)
 
 ### Meals Table
 ![Meals Table](screenshots/meals-table.png)
